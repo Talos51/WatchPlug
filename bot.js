@@ -58,6 +58,7 @@ function runBot(){
 		
 		bot.multiLine = true;
 		bot.multiLineLimit = 5;
+		bot.deleteAllChat = true; // to delete higher rank chat messages 
 		
 		// init
 		var timerMessage, messagesV=true, skipMessages=true, autoW=true, historic=false;
