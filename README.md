@@ -31,7 +31,7 @@ $ npm install -g forever
 You need PlugAPI installed globally (or locally to run multiple bots):
 
 ```sh
-$ npm install plugapi --production
+$ npm install -g plugapi --production
 ```
 
 ```sh
