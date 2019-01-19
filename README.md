@@ -4,7 +4,7 @@ PvS Community PlugDJ Bot
 
   - Author: Talos
   - Contact: Twitter @Talos51
-  - Website: http://www.private-ts.tk
+  - Website: https://www.private-ts.tk
 
 
 
