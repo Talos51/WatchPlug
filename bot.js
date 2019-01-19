@@ -3,7 +3,7 @@
  * @Author : Talos @ Twitter.com/Talos51
  * @Version 2.2
  * FREE TO USE, BUT DON'T DELETE THIS HEADER. THANKS !
- * http://private-ts.free.fr/    ||    http://private-ts.tk
+ * http://private-ts.tk
  * 
  * Special Thanks:
  * > Krasimir Tsonev for his "Javascript Command Parser" ( @ http://krasimirtsonev.com/ )
@@ -26,8 +26,8 @@ _VERSION = "2.2"; // VERSION //
 _USERFILE = "/var/www/plugdj/nbusers.txt"; // FILE TO GET CURRENT NUMBER OF USER IN ROOM //
 _WORDSFILE = "words.txt"; // FILE WITH BANNED WORDS, EACH SEPARATED by ; //
 _MSGFILE = "messages.txt"; // FILE WITH MESSAGES TO SEND, EACH SEPARATED by ;//
-_CMDLINK = "http://private-ts.tk/plugdj#commands"; // LINK TO COMMANDS //
-_RULESLINK = "http://private-ts.tk/plugdj#rules"; // LINK TO ROOM RULES //
+_CMDLINK = "http://yoursite.com/bot_commands.html"; // LINK TO COMMANDS //
+_RULESLINK = "http://yoursite.com/bot_rules.html"; // LINK TO ROOM RULES //
 _SOUNDCLOUDAPI = "SOUNDCLOUD_APIKEY"; // SOUNDCLOUD API KEY /!\ MANDATORY /!\ //
 _YOUTUBEKEY = "YOUTUBE_API_KEY"; // YOUTUBE API KEY /!\ MANDATORY /!\  //
 _THEME = "EDM, POP, ROCK, Misc"; // THEME(s) ALLOWED IN ROOM //
